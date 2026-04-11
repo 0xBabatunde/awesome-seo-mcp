@@ -79,6 +79,7 @@ Servers providing content analysis, optimization recommendations, and quality as
 |---|---|---|---|---|
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | Content analysis and generation APIs for SEO optimization |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | SEO content optimization API with plagiarism detection |
+| **Toprank** | [GitHub](https://github.com/nowork-studio/toprank) | Markdown | Apr 9, 2026 | Claude Code plugin for SEO, Google Ads, content writing, and CMS optimization workflows |
 
 ### 5. Technical SEO Analysis (3 servers)
 Servers for technical website analysis, crawling, and indexability assessment.
