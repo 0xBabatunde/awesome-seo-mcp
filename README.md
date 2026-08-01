@@ -107,8 +107,12 @@ Servers supporting local search optimization, GMB management, and location-based
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | Business data APIs for local SEO insights and GMB information |
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Local Falcon API integration for grid-based local ranking analysis |
 
-### 8. Performance Monitoring (0 servers)
-No dedicated performance monitoring servers were identified in the current MCP ecosystem for SEO purposes.
+### 8. Performance Monitoring (1 server)
+Servers providing availability and response-time monitoring for the APIs and platforms a site depends on.
+
+| Server Name | Link | Programming Language | Last Commit | Maintenance Status | Description |
+|---|---|---|---|---|---|
+| **API Status Check MCP** | [Hosted endpoint](https://apistatuscheck.com/api/mcp) | TypeScript | Jul 30, 2026 | Active | Remote (hosted) MCP server over streamable HTTP — no install, no API key. Six tools covering 285 APIs across 30 categories: `get_api_status` probes an endpoint at call time and returns up/degraded/down with a response time, plus `list_down_apis`, `get_uptime_history` (30-day retention), `search_apis`, `list_apis` and `list_categories` |
 
 ### 9. Web Scraping & Data Extraction (11 servers)
 Supporting tools for data collection and content extraction necessary for SEO analysis.
