@@ -43,7 +43,7 @@ Servers providing comprehensive website analysis, technical audits, and site hea
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Active | Community-built comprehensive DataForSEO API wrapper with extensive coverage of audit and analysis endpoints |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Integration with SEO Review Tools API providing website analysis, domain authority, and content quality checks |
 
-### 2. Keyword Research & Tracking (3 servers)
+### 2. Keyword Research & Tracking (4 servers)
 Servers facilitating keyword discovery, search volume analysis, and keyword performance tracking.
 
 | Server Name | Link | Programming Language | Last Commit | Maintenance Status | Description |
@@ -51,6 +51,7 @@ Servers facilitating keyword discovery, search volume analysis, and keyword perf
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | Active | Access to keyword data APIs including search volume, CPC, competition metrics, and keyword suggestions |
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Active | Comprehensive keyword research tools via DataForSEO Keywords Data API with advanced analytics |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Keywords API access for research and analysis with 7B+ keyword database |
+| **Unfetch** | [GitHub](https://github.com/unfetch-com/agent-plugin) | Hosted service | Sep 15, 2026 | Active | Google Ads MCP, Google Analytics, and Search Console reporting with keyword demand, competition, and CPC estimates; read-only account access through OAuth. [Setup](https://unfetch.com/plugin) |
 
 ### 3. Search Engine Data Access (14 servers)
 The largest category, providing access to search engine results, SERP data, and search APIs.
