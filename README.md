@@ -81,7 +81,7 @@ Servers providing content analysis, optimization recommendations, and quality as
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | SEO content optimization API with plagiarism detection |
 | **nowork-studio/NotFair** | [GitHub](https://github.com/nowork-studio/NotFair) | TypeScript | Jun 2025 | Open-source Claude Code agent skills (~2.9k stars) for SEO, content writing, and paid-ads workflows; connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
-### 5. Technical SEO Analysis (3 servers)
+### 5. Technical SEO Analysis (4 servers)
 Servers for technical website analysis, crawling, and indexability assessment.
 
 | Server Name | Link | Programming Language | Last Commit | Description |
@@ -89,6 +89,7 @@ Servers for technical website analysis, crawling, and indexability assessment.
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | On-page SEO performance metrics and technical analysis |
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | OnPage API for website auditing and technical SEO checks |
 | **yamanoku/baseline-mcp-server** | [GitHub](https://github.com/yamanoku/baseline-mcp-server) | TypeScript | May 17, 2025 | Web Platform Dashboard API for browser compatibility and feature support analysis |
+| **CrakSEO Search Console MCP** | [Docs](https://docs.crakseo.com/mcp-servers/search-console) | Not published (hosted) | n/a | Free owned-site Google Search Console URL inspection and Bing Webmaster data over remote MCP; authentication and property authorization required |
 
 ### 6. Link Analysis & Monitoring (3 servers)
 Servers providing backlink analysis, referring domain tracking, and link profile assessment.
