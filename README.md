@@ -131,6 +131,7 @@ Advanced research capabilities for market analysis and competitive intelligence.
 | Server Name | Link | Programming Language | Last Commit | Description |
 |---|---|---|---|---|
 | **reading-plus-ai/mcp-server-deep-research** | [GitHub](https://github.com/reading-plus-ai/mcp-server-deep-research) | Python | Mar 25, 2025 | Autonomous deep research with structured reporting and citation management |
+| **GeminiGeorge22/google-ads-transparency-mcp** | [GitHub](https://github.com/GeminiGeorge22/google-ads-transparency-mcp) | Python | Nov 3, 2026 | Competitor Google ads from the Google Ads Transparency Center: new, running and stopped, with shown dates |
 
 
 ## Contributing
