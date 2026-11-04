@@ -34,7 +34,7 @@ To use this resource, browse the [MCP Servers for SEO](#mcp-servers-for-seo) sec
 
 ## MCP Servers for SEO
 
-### 1. Website Analysis & Auditing (3 servers)
+### 1. Website Analysis & Auditing (4 servers)
 Servers providing comprehensive website analysis, technical audits, and site health monitoring.
 
 | Server Name | Link | Programming Language | Last Commit | Maintenance Status | Description |
@@ -42,6 +42,7 @@ Servers providing comprehensive website analysis, technical audits, and site hea
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | Active | Official DataForSEO API integration providing comprehensive SEO data including on-page analysis, technical audits, and performance metrics |
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Active | Community-built comprehensive DataForSEO API wrapper with extensive coverage of audit and analysis endpoints |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Integration with SEO Review Tools API providing website analysis, domain authority, and content quality checks |
+| **Vaneform MCP Server** | [GitHub](https://github.com/jiangqizheng/vaneform-mcp) | TypeScript | Oct 18, 2026 | Active | Free website traffic checker MCP: monthly visits, traffic sources, top countries, and domain compares |
 
 ### 2. Keyword Research & Tracking (3 servers)
 Servers facilitating keyword discovery, search volume analysis, and keyword performance tracking.
