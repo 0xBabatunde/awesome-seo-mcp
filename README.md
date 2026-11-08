@@ -52,7 +52,7 @@ Servers facilitating keyword discovery, search volume analysis, and keyword perf
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Active | Comprehensive keyword research tools via DataForSEO Keywords Data API with advanced analytics |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Keywords API access for research and analysis with 7B+ keyword database |
 
-### 3. Search Engine Data Access (14 servers)
+### 3. Search Engine Data Access (15 servers)
 The largest category, providing access to search engine results, SERP data, and search APIs.
 
 | Server Name | Link | Programming Language | Last Commit | Stars | Description |
@@ -71,6 +71,7 @@ The largest category, providing access to search engine results, SERP data, and 
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Unknown | SERP API with 560M+ crawled search results |
 | **exa-labs/exa-mcp-server** | [GitHub](https://github.com/exa-labs/exa-mcp-server) | Unknown | Unknown | Unknown | Exa AI Search API integration for real-time web information access |
 | **apify/mcp-server-rag-web-browser** | [GitHub](https://github.com/apify/mcp-server-rag-web-browser) | Unknown | Unknown | Unknown | Web searches and URL scraping with Markdown output via Apify |
+| **GoAnyAPI** | [GitHub](https://github.com/GoAnyAPI/goanyapi-mcp) | TypeScript | Nov 8, 2026 | Unknown | Google and Bing SERP with country/language/device controls, autocomplete for 8 engines, keyword difficulty and volume, backlinks, domain rating, traffic and Google Ads Transparency. Hosted remote server (OAuth, no key to manage) |
 
 ### 4. Content Optimization Tools (3 servers)
 Servers providing content analysis, optimization recommendations, and quality assessment.
