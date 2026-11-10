@@ -52,7 +52,7 @@ Servers facilitating keyword discovery, search volume analysis, and keyword perf
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Active | Comprehensive keyword research tools via DataForSEO Keywords Data API with advanced analytics |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Keywords API access for research and analysis with 7B+ keyword database |
 
-### 3. Search Engine Data Access (14 servers)
+### 3. Search Engine Data Access (23 servers)
 The largest category, providing access to search engine results, SERP data, and search APIs.
 
 | Server Name | Link | Programming Language | Last Commit | Stars | Description |
@@ -71,6 +71,15 @@ The largest category, providing access to search engine results, SERP data, and 
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Unknown | SERP API with 560M+ crawled search results |
 | **exa-labs/exa-mcp-server** | [GitHub](https://github.com/exa-labs/exa-mcp-server) | Unknown | Unknown | Unknown | Exa AI Search API integration for real-time web information access |
 | **apify/mcp-server-rag-web-browser** | [GitHub](https://github.com/apify/mcp-server-rag-web-browser) | Unknown | Unknown | Unknown | Web searches and URL scraping with Markdown output via Apify |
+| **Google Search Results MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/google_search.md) | JavaScript | Unknown | Unknown | Retrieve structured Google web results, links and snippets; not full-page extraction. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/google_search) |
+| **Google News Search MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/google_news.md) | JavaScript | Unknown | Unknown | Search Google News headlines, publication details and links; not full articles. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/google_news) |
+| **Google Images Search MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/google_images.md) | JavaScript | Unknown | Unknown | Search image URLs, thumbnails and source pages; does not download or license images. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/google_images) |
+| **Google Shopping Search MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/google_shopping.md) | JavaScript | Unknown | Unknown | Retrieve Google Shopping product links, merchants and displayed prices; no stock guarantee. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/google_shopping) |
+| **Google Video Search MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/google_videos.md) | JavaScript | Unknown | Unknown | Find video results across websites through Google Videos search. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/google_videos) |
+| **Google Places Search MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/google_places.md) | JavaScript | Unknown | Unknown | Search local businesses and places with available addresses, ratings and contact fields. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/google_places) |
+| **YouTube Video Search MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/youtube_search.md) | JavaScript | Unknown | Unknown | Search YouTube videos by keyword with a requested result limit of 1 to 20. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/youtube_search) |
+| **YouTube Extended Search MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/youtube_search_extended.md) | JavaScript | Unknown | Unknown | Search YouTube with a requested limit up to 700; separate rate, results may be fewer. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/youtube_search_extended) |
+| **YouTube Autocomplete MCP (FlashData)** | [GitHub guide](https://github.com/rocosen/flashdata-mcp/blob/main/registry/guides/youtube_suggestions.md) | JavaScript | Unknown | Unknown | Retrieve YouTube autocomplete phrases from a prefix; not search-volume measurements. API key and paid Credits. [Source docs](https://flashdata.dev/docs/sources/youtube_suggestions) |
 
 ### 4. Content Optimization Tools (3 servers)
 Servers providing content analysis, optimization recommendations, and quality assessment.
