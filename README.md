@@ -90,11 +90,12 @@ Servers for technical website analysis, crawling, and indexability assessment.
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | OnPage API for website auditing and technical SEO checks |
 | **yamanoku/baseline-mcp-server** | [GitHub](https://github.com/yamanoku/baseline-mcp-server) | TypeScript | May 17, 2025 | Web Platform Dashboard API for browser compatibility and feature support analysis |
 
-### 6. Link Analysis & Monitoring (3 servers)
+### 6. Link Analysis & Monitoring (4 servers)
 Servers providing backlink analysis, referring domain tracking, and link profile assessment.
 
 | Server Name | Link | Programming Language | Last Commit | Description |
 |---|---|---|---|---|
+| **BacklinkMastery** | [Docs](https://backlink-mastery.com/en/mcp) | N/A (hosted) | N/A (hosted) | Remote MCP server at `https://backlink-mastery.com/mcp` (OAuth): monitor backlinks, find lost links, re-check them, review newly discovered ones, create client report links |
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | Comprehensive backlink data including referring domains and anchor text |
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Backlinks API for link profile analysis and competitor research |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Backlinks API with 3.1T+ backlink database |
