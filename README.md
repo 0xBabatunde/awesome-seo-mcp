@@ -45,7 +45,7 @@ Servers providing comprehensive website analysis, technical audits, and site hea
 | **squirrelscan/squirrelscan** | [GitHub](https://github.com/squirrelscan/squirrelscan) | TypeScript | Sep 13, 2026 | Active | Website audit MCP server for coding agents: run audits, poll status, read reports, list issues and rules, and compare audits (260+ SEO, performance, security, accessibility and agent experience checks); hosted remote at https://mcp.squirrelscan.com/mcp (OAuth) or local `squirrel mcp` stdio server from the MIT CLI |
 | **Screpy SEO MCP** | [Official docs](https://github.com/screpylabs/seo-mcp) | Not public (hosted) | N/A (hosted) | Active | [Remote server](https://screpy.com/feature/seo-mcp/) with 44 project-scoped tools for website audits, crawls, ranking, AI visibility, and uptime; OAuth login |
 
-### 2. Keyword Research & Tracking (3 servers)
+### 2. Keyword Research & Tracking (4 servers)
 Servers facilitating keyword discovery, search volume analysis, and keyword performance tracking.
 
 | Server Name | Link | Programming Language | Last Commit | Maintenance Status | Description |
@@ -53,6 +53,7 @@ Servers facilitating keyword discovery, search volume analysis, and keyword perf
 | **DataForSEO MCP Server** | [GitHub](https://github.com/dataforseo/mcp-server-typescript) | TypeScript | Jun 17, 2025 | Active | Access to keyword data APIs including search volume, CPC, competition metrics, and keyword suggestions |
 | **dataforseo-mcp-server** | [GitHub](https://github.com/Skobyn/dataforseo-mcp-server) | TypeScript | Jun 17, 2025 | Active | Comprehensive keyword research tools via DataForSEO Keywords Data API with advanced analytics |
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Keywords API access for research and analysis with 7B+ keyword database |
+| **Manifold MCP** | [Website](https://www.manifoldmcp.com) | n/a (hosted remote server) | n/a | Active | An MCP for marketers that gives agents tools for SEO, AEO, socials and ads data, including keyword, backlink, SERP and Google Search Console data, with a generous free tier |
 
 ### 3. Search Engine Data Access (14 servers)
 The largest category, providing access to search engine results, SERP data, and search APIs.
