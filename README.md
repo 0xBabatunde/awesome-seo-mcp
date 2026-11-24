@@ -73,6 +73,7 @@ The largest category, providing access to search engine results, SERP data, and 
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Unknown | SERP API with 560M+ crawled search results |
 | **exa-labs/exa-mcp-server** | [GitHub](https://github.com/exa-labs/exa-mcp-server) | Unknown | Unknown | Unknown | Exa AI Search API integration for real-time web information access |
 | **apify/mcp-server-rag-web-browser** | [GitHub](https://github.com/apify/mcp-server-rag-web-browser) | Unknown | Unknown | Unknown | Web searches and URL scraping with Markdown output via Apify |
+| **flashdatadev/flashdata-mcp** | [GitHub](https://github.com/flashdatadev/flashdata-mcp) | TypeScript | Active | 1 | Official local stdio & hosted Remote MCP (`https://data.flashdata.dev/mcp`) for real-time Google Search (Web, News, Images, Shopping, Videos, Places), YouTube transcripts/metadata, and cloud video downloads (free trial, no credit card required) |
 
 ### 4. Content Optimization Tools (3 servers)
 Servers providing content analysis, optimization recommendations, and quality assessment.
