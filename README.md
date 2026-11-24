@@ -127,12 +127,13 @@ Supporting tools for data collection and content extraction necessary for SEO an
 | **vectorize-io/vectorize-mcp-server** | [GitHub](https://github.com/vectorize-io/vectorize-mcp-server/) | Unknown | Unknown | Unknown | Advanced retrieval and content processing with text chunking |
 | **mzxrai/mcp-webresearch** | [GitHub](https://github.com/mzxrai/mcp-webresearch) | JavaScript | Dec 18, 2024 | Unknown | **Archived** - Web research tool with Google search and content extraction |
 
-### 10. Research & Intelligence Tools (1 server)
+### 10. Research & Intelligence Tools (2 servers)
 Advanced research capabilities for market analysis and competitive intelligence.
 
 | Server Name | Link | Programming Language | Last Commit | Description |
 |---|---|---|---|---|
 | **reading-plus-ai/mcp-server-deep-research** | [GitHub](https://github.com/reading-plus-ai/mcp-server-deep-research) | Python | Mar 25, 2025 | Autonomous deep research with structured reporting and citation management |
+| **mirackacmazcom/seo-skills** | [GitHub](https://github.com/mirackacmazcom/seo-skills) | Remote (hosted) | Nov 24, 2026 | Remote MCP server (`https://mcp.seoskills.io/mcp`, no auth) with 7 read-only tools that search the leaked Google Content Warehouse API docs, Google and LLM patents, official Google Search documentation and Google staff statements, and cite the source |
 
 
 ## Contributing
