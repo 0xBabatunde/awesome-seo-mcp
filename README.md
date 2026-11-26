@@ -34,7 +34,7 @@ To use this resource, browse the [MCP Servers for SEO](#mcp-servers-for-seo) sec
 
 ## MCP Servers for SEO
 
-### 1. Website Analysis & Auditing (5 servers)
+### 1. Website Analysis & Auditing (6 servers)
 Servers providing comprehensive website analysis, technical audits, and site health monitoring.
 
 | Server Name | Link | Programming Language | Last Commit | Maintenance Status | Description |
@@ -44,6 +44,7 @@ Servers providing comprehensive website analysis, technical audits, and site hea
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Integration with SEO Review Tools API providing website analysis, domain authority, and content quality checks |
 | **squirrelscan/squirrelscan** | [GitHub](https://github.com/squirrelscan/squirrelscan) | TypeScript | Sep 13, 2026 | Active | Website audit MCP server for coding agents: run audits, poll status, read reports, list issues and rules, and compare audits (260+ SEO, performance, security, accessibility and agent experience checks); hosted remote at https://mcp.squirrelscan.com/mcp (OAuth) or local `squirrel mcp` stdio server from the MIT CLI |
 | **Screpy SEO MCP** | [Official docs](https://github.com/screpylabs/seo-mcp) | Not public (hosted) | N/A (hosted) | Active | [Remote server](https://screpy.com/feature/seo-mcp/) with 44 project-scoped tools for website audits, crawls, ranking, AI visibility, and uptime; OAuth login |
+| **SagBot** | [GitHub](https://github.com/Sagbot-Apps/sagbot-plugin) | Not public (hosted) | N/A (hosted) | Active | [Remote server](https://sagbot.app/mcp) at `https://mcp.sagbot.app/mcp` (OAuth) that scans a live site for AI-agent and answer-engine readiness (robots.txt rules for AI bots, llms.txt, structured data, citability) and returns a fix for each failed check; also builds client reports and finds AI citations |
 
 ### 2. Keyword Research & Tracking (3 servers)
 Servers facilitating keyword discovery, search volume analysis, and keyword performance tracking.
