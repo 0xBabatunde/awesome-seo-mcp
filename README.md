@@ -44,6 +44,7 @@ Servers providing comprehensive website analysis, technical audits, and site hea
 | **SEO Review Tools – MCP server** | [GitHub](https://github.com/jasjaterhorst/SEO-Review-Tools-API-MCP-server/) | JavaScript | Jun 11, 2025 | Active | Integration with SEO Review Tools API providing website analysis, domain authority, and content quality checks |
 | **squirrelscan/squirrelscan** | [GitHub](https://github.com/squirrelscan/squirrelscan) | TypeScript | Sep 13, 2026 | Active | Website audit MCP server for coding agents: run audits, poll status, read reports, list issues and rules, and compare audits (260+ SEO, performance, security, accessibility and agent experience checks); hosted remote at https://mcp.squirrelscan.com/mcp (OAuth) or local `squirrel mcp` stdio server from the MIT CLI |
 | **Screpy SEO MCP** | [Official docs](https://github.com/screpylabs/seo-mcp) | Not public (hosted) | N/A (hosted) | Active | [Remote server](https://screpy.com/feature/seo-mcp/) with 44 project-scoped tools for website audits, crawls, ranking, AI visibility, and uptime; OAuth login |
+| **The SEO Agent MCP** | [GitHub](https://github.com/jeremy665/theseoagent-mcp) | TypeScript | Nov 2026 | Active | MCP server connecting Claude and AI coding agents to technical SEO site audits, keyword planning, and CMS article publishing workflows |
 
 ### 2. Keyword Research & Tracking (3 servers)
 Servers facilitating keyword discovery, search volume analysis, and keyword performance tracking.
